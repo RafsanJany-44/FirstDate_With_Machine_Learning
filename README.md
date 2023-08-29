@@ -1,9 +1,9 @@
 # Set up the Research Endeavor: A Preliminary Exploration of Machine Learning and Deep Learning
 
 Rafsan Jany
-BSc in Software Engineering 
-Department of Computer Science And Engineering
-Islamic University of Technology
+BSc in Software Engineering, '17<br>
+Department of Computer Science And Engineering<br>
+Islamic University of Technology<br>
 
 Work Profile & Experiences:
 1. Research Collaboration Program, Weill Cornell Medicine, Cornell University, New York(currently).
