@@ -1,3 +1,39 @@
-# FirstDate_With_Machine_Learning
+# Set up the Research Endeavor: A Preliminary Exploration of Machine Learning and Deep Learning
+
+Rafsan Jany
+BSc in Software Engineering 
+Department of Computer Science And Engineering
+Islamic University of Technology
+
+Work Profile & Experiences:
+1. Research Collaboration Program, Weill Cornell Medicine, Cornell University, New York(currently).
+2. Research Collaboration Program, SNU Medicine ,Seoul University, South Korea.
+3. Advisor, Network and Data Analysis Group Lab, Islamic University of Technology, Bangladesh(currently).
+4. Software Developer Intern, IMpuls Bd Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Here you will have your very first date with Machine Learning. You will know very basic of it. Do not expect too much from first date.
