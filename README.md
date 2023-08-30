@@ -1,4 +1,4 @@
-# Set up the Research Endeavor: A Preliminary Exploration of Machine Learning and Deep Learning
+# Set up the Research Endeavor: A Preliminary <font color = 'red' size='7'>Exploration</font> of Machine Learning and Deep Learning
 
 Rafsan Jany<br>
 BSc in Software Engineering, '17<br>
